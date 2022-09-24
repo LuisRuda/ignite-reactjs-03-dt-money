@@ -23,6 +23,30 @@
       "category": "Educação",
       "price": 1980,
       "createdAt": "2022-07-29T19:24:44.505Z"
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2022-09-24T00:57:01.144Z",
+      "id": 4
+    },
+    {
+      "description": "Cerveja",
+      "price": 38,
+      "category": "Bebida",
+      "type": "outcome",
+      "createdAt": "2022-09-24T01:12:30.901Z",
+      "id": 5
+    },
+    {
+      "description": "Notebook",
+      "price": 19000,
+      "category": "Eletrônico",
+      "type": "outcome",
+      "createdAt": "2022-09-24T01:13:30.876Z",
+      "id": 6
     }
   ]
 }
